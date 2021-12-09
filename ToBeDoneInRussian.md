@@ -7,7 +7,7 @@
 <SheikhAshVabar> теперь мой домен i2p.now.sh
 <SheikhAshVabar> халява
 * xdrfcvgy (xdrfcvgy@njhxwyn7rm7haxwnoinxo2sommvys2usz4bylqlslz4atqbajpfa.b32.i2p) has joined
-<SheikhAshVabar> i2p.app выброшу не{*фига*} гуглу платить
+<SheikhAshVabar> i2p.app выброшу не{*Фига*} гуглу платить
 <nickname> SheikhAshVabar, i2p.app круче.
 <nickname> )
 <SheikhAshVabar> вот и плати гуглу
@@ -15,4 +15,7 @@
 <nickname> Ведь если каждого утюга будет свой статичный IPv6, то какой от них (DNS-провайдеров) прок.
 <SheikhAshVabar> а я буду себе платить в моей postmodern dns
 <SheikhAshVabar> буду днс провайдер ipvinfinity
+{*Pause*}
+<nickname> В общем на лицо сговор группы юридических лиц.
+<nickname> В том числе государственных.
 ```
